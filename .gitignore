@@ -6,9 +6,10 @@
 /out-tsc
 /bazel-out
 
-./src/environments
-.environment.prod.ts
-.environment.ts
+.env
+/src/environments
+environment.prod.ts
+environment.ts
 
 # Node
 /node_modules
